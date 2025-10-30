@@ -3,15 +3,30 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/Controlador/FFERALoginServlet.java</file>
-            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/Controlador/FFERAReclamoServlet.java</file>
-            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/Controlador/FFERAAdminServlet.java</file>
-            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/Controlador/FFERAUsuarioServlet.java</file>
-            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/Controlador/FFERACaptchaServlet.java</file>
-            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/Controlador/FFERAReportesServlet.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/controlador/FFERALoginServlet.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/controlador/FFERAReclamoServlet.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/controlador/FFERAAdminServlet.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/controlador/FFERAUsuarioServlet.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/controlador/FFERACaptchaServlet.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/controlador/FFERAReportesServlet.java</file>
             <file>file:/C:/Proyecto%20Java/FRamos_Uni02/web/vistas/login.jsp</file>
             <file>file:/C:/Proyecto%20Java/FRamos_Uni02/web/vistas/usuario/dashboard_usuario.jsp</file>
             <file>file:/C:/Proyecto%20Java/FRamos_Uni02/web/vistas/admin/dashboard_admin.jsp</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/config/FFERAConexion.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/interfaces/IFFERAGeneralDAO.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/interfaces/IFFERAReclamoDAO.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/interfaces/IFFERASeguimientoDAO.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/interfaces/IFFERAUsuarioDAO.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/modelo/FFERACategoria.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/modelo/FFERAEstado.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/modelo/FFERAReclamo.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/modelo/FFERARol.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/modelo/FFERASeguimiento.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/modelo/FFERAUsuario.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/modeloDAO/FFERAGeneralDAO.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/modeloDAO/FFERASeguimientoDAO.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/modeloDAO/FFERAReclamoDAO.java</file>
+            <file>file:/C:/Proyecto%20Java/FRamos_Uni02/src/java/modeloDAO/FFERAUsuarioDAO.java</file>
             <file>file:/C:/Proyecto%20Java/FRamos_Uni02/web/index.jsp</file>
         </group>
     </open-files>

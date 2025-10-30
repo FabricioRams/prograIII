@@ -1,14 +1,17 @@
-<%@ page contentType="text/html" pageEncoding="UTF-8"%>
+<%-- 
+    Document   : index
+    Created on : 29 oct. 2025, 7:44:16 p. m.
+    Author     : HP
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="UTF-8">
-    <title>Redirigiendo...</title>
-</head>
-<body>
-    <%
-        // Redirección directa desde el servidor
-        response.sendRedirect(request.getContextPath() + "/FFERALoginServlet?accion=login");
-    %>
-</body>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>JSP Page</title>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+    </body>
 </html>
